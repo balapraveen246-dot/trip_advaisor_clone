@@ -76,7 +76,7 @@ This project was created as a **Hands-on Frontend Development Project** to impro
 Aspiring Full Stack Developer & Data Science Student
 
 - GitHub: https://github.com/balapraveen246-dot
-- LinkedIn: https://www.linkedin.com/in/praveenrfsds
+- LinkedIn: https://www.linkedin.com/in/praveenrdsafs
 
 ---
 
